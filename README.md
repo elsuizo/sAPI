@@ -41,5 +41,5 @@ Every module includes an example.
 
 Now available for boards:
 
-- EDU-CIAA-NXP (NXP LPC4337 microcontroller). [Download documentation.](docs/assets/pdf/EDU-CIAA-NXP_sAPI_bm_A4_v1r0_ES.pdf)
+- EDU-CIAA-NXP (NXP LPC4337 microcontroller). [Download documentation.](docs/assets/pdf/EDU-CIAA-NXP_Pinout_A4_v4r3_ES.pdf)
 - CIAA-NXP (NXP LPC4337 microcontroller).
